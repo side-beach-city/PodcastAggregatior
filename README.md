@@ -1,0 +1,2 @@
+# PodcastAggregatior
+ポッドキャスト集計ツール。YouTube配信とBlubrryの集計に対応
